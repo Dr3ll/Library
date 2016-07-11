@@ -1,0 +1,2 @@
+D:\Dropbox\mine\uni\IS\Projekt\Library\Library\LibraryContent\obj\x86\Debug\LibraryContent.contentprojResolveAssemblyReference.cache
+I:\Repos\Library____\Library\LibraryContent\obj\x86\Debug\LibraryContent.contentprojResolveAssemblyReference.cache
